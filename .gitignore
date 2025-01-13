@@ -1,3 +1,7 @@
 *.iml
 .idea
 *.pyc
+
+# Annif directories
+projects
+vocabs
