@@ -1,0 +1,5 @@
+Base de données Lieux de Mémoire.
+
+900 fiches.
+
+Cette base de données contient des fiches relatives aux lieux importants pour l’histoire des Juifs en Belgique, ces lieux pouvant être des oratoires, synagogues, homes, écoles, institutions juives, locaux d’associations, commerces etc. Les champs repris sont les suivants : commune, adresse, catégorie, identification, remarques, sources et photographies.

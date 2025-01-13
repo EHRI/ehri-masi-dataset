@@ -1,0 +1,3 @@
+Bremen harbor
+
+VAR LS ship in harbor; people board ship as those on dock wave; people are nicely dressed.
