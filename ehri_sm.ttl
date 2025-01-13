@@ -1,3 +1,11 @@
+# This file is a subset of the EHRI Terms controlled vocabulary of Holocaust-related subject headings,
+# used for the paper "Multilingual Automated Subject Indexing: a comparative study of LLMs vs alternative 
+# approaches in the context of the EHRI project".
+# The terms here have been limited to those represented in the dataset included in this repository
+# (https://github.com/EHRI/ehri-masi-dataset/).
+# For the full controlled vocabulary see: https://portal.ehri-project.eu/vocabularies/ehri_terms
+#
+
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
