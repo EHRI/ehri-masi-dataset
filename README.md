@@ -72,7 +72,7 @@ To reproduce the results of the paper, follow these steps:
     pip install -e .[nn,fasttext,spacy,omikuji]
 
     # Clone the dataset to the data directory
-    git clone https://github.com/EHRI/ehri-masi-data.git data
+    git clone https://github.com/EHRI/ehri-masi-dataset.git data
 
     # Activate the example `projects.cfg`
     cp projects.cfg.ehri projects.cfg
